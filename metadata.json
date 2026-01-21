@@ -1,0 +1,5 @@
+{
+  "name": "Sitter - Technical Support Agent",
+  "description": "A powerful support agent that leverages Knowledge Bases and RAG sources to provide expert technical answers while tracking organizational stakeholders.",
+  "requestFramePermissions": []
+}
